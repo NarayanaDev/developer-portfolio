@@ -64,7 +64,7 @@ portfolio/
 
 ## Live Website
 
-(Add Netlify link here after deployment)
+(https://narayana-developer-portfolio.netlify.app/)
 
 ---
 
