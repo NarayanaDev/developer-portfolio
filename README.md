@@ -41,11 +41,18 @@ The website is fully responsive and works on mobile, tablet, and desktop devices
 - Boxicons (for icons)
 - Web3Forms (for contact form)
 
----
-
+```
 ## Project Structure
-
----
+portfolio/
+│
+├── index.html # Main HTML file
+├── index.css # CSS styling
+├── Main.js # JavaScript logic
+├── Components/
+│ ├── images/ # Images used in the website
+│ └── Resume/ # Resume PDF
+└── README.md
+```
 
 ## How to Run the Project
 
